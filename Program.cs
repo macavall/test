@@ -10,7 +10,7 @@ namespace test
                 .ConfigureFunctionsWorkerDefaults()
                 .Build();
 
-                // test
+                // test 
 
             host.Run();
         }
